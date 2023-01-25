@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="twitter.com/mayank_MKS_13?t=QQSU__KUqfpZweO3ceV8xw&s=09">
+  <a href="https://twitter.com/mayank_MKS_13">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>

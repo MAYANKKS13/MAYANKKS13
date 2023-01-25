@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
-  <a href="instagram.com/sinha._mayankkumar?igshid=NmQ2ZmYxZjA=">
+  <a href="https://www.instagram.com/sinha._mayankkumar/">
     <img src="https://img.shields.io/badge/instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>

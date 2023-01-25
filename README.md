@@ -10,8 +10,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
-  <a href="https://forum.worldcubeassociation.org/u/mayank_kumar_sinha/">
-    <img src="https://img.shields.io/badge/WCA-black?style=for-the-badge&logo=WCA&logoColor=white" alt="WCA Badge"/>
+  <a href="instagram.com/sinha._mayankkumar?igshid=NmQ2ZmYxZjA=">
+    <img src="https://img.shields.io/badge/instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
   

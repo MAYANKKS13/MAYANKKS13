@@ -6,11 +6,11 @@
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
   
-  <a href="linkedin.com/in/mayank-kumar-sinha-05397b1b4">
+  <a href="https://www.linkedin.com/in/mayank-kumar-sinha-05397b1b4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFYElOGU5SGmAeq4RqjmMpw%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="twitter.com/mayank_mks_13">
+  <a href="twitter.com/mayank_MKS_13">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -27,8 +27,6 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- <a href="linkedin.com/in/mayank-kumar-sinha-05397b1b4">
-    <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+- 
 - ⚡ Fun fact: ...
 

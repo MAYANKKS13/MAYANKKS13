@@ -5,7 +5,8 @@
   <a href="mayankksinha1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
-  <a href="linked.com/in/mayank-kumar-sinha-05397b1b4">
+  
+  <a href="linkedin.com/in/mayank-kumar-sinha-05397b1b4">
     <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   

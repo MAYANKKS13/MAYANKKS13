@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/X4SS63h7k5umY/giphy.gif" width="130" height="100"/>
 
 <div id="badges">
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
+  <a href="https://mail.google.com/">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
   

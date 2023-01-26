@@ -19,8 +19,6 @@
   
   </div>
 
-
-
 ---
 ### Hi there 👋, I'm Mayank
 - 💫 You can call me MKS.
@@ -31,4 +29,7 @@
 - 📫 How to reach me: ...
 - 🔭
 - ⚡ Fun fact: ...
+
+---
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MAYANKKS13&theme=dark&hide_border=true&border_radius=4.2)](https://git.io/streak-stats)
 

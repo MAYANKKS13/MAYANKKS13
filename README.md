@@ -1,17 +1,6 @@
 
   <h2> Hi there 👋, I'm MAYANK👨‍🎓 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mayank-kumar-sinha-05397b1b4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFYElOGU5SGmAeq4RqjmMpw%3D%3D">
-    <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  <a href="https://twitter.com/mayank_MKS_13">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  
-  <a href="https://www.instagram.com/sinha._mayankkumar/">
-    <img src="https://img.shields.io/badge/instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+
 </h2>
 
 
@@ -26,14 +15,15 @@
 
  <h2> :man_technologist: About Me</h2>
  
-- 💫 You can call me MKS.
+- 💫 People call me MKS.
 - 🌱 Interested in Physics, Mathematics, Coding, Rubik's Cube, Puzzles, etc.
 - 👨‍💻 Currently exploring and analysing software development field and new technologies.
 - 📚 Learning more on languages and development.
 - 📫 Contact me via Gmail: mayankksinha1@gmail.com
+- 🖱️ Can also contact me through Linkedin, Twitter or Instagram.
 
 
- <U><h2>My Github</h2></U>
+ <U><h2>®️My Github</h2></U>
 
 <div id="streak" align="center">
   
@@ -47,16 +37,16 @@
   
   </div>
   
-  <U><h2>Contact Info: </h2></U>
+  <U><h2>🔗Contact Info: </h2></U>
   <div id="badges">
   <a href="https://www.linkedin.com/in/mayank-kumar-sinha-05397b1b4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFYElOGU5SGmAeq4RqjmMpw%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
+  &nbsp;
   <a href="https://twitter.com/mayank_MKS_13">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  
+  &nbsp;
   <a href="https://www.instagram.com/sinha._mayankkumar/">
     <img src="https://img.shields.io/badge/instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>

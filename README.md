@@ -1,5 +1,6 @@
 
-  <h2> Hi there 👋, I'm MAYANK👨‍🎓 <br>
+  <h2> Hi there 👋, I'm MAYANK👨‍🎓 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mayank-kumar-sinha-05397b1b4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFYElOGU5SGmAeq4RqjmMpw%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>

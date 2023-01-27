@@ -19,7 +19,7 @@
 - 🌱 Interested in Physics, Mathematics, Coding, Rubik's Cube, Puzzles, etc.
 - 👨‍💻 Currently exploring and analysing software development field and new technologies.
 - 📚 Learning more on languages and development.
-- 📫 Contact me via Gmail: mayankksinha1@gmail.com
+- 📫 Contact me via Gmail: mayankksinha1@gmail.com .
 - 🖱️ Can also contact me through Linkedin, Twitter, Instagram or Reddit.
 
 

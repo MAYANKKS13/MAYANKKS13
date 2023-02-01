@@ -20,7 +20,7 @@
 - 👨‍💻 Currently exploring and analysing the software development field and new technologies.
 - 📚 Learning more on languages and development.
 - 📫 Contact me via Gmail: mayankksinha1@gmail.com .
-- 🖱️ Can also contact me through Linkedin, Twitter, Instagram or Reddit.
+- 🖱️ You can also reach me through Linkedin, Twitter, Instagram or Reddit.
 
 
  <U><h2>®️ My Github</h2></U>

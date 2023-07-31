@@ -16,8 +16,8 @@
  <h2> :man_technologist: About Me</h2>
  
 - 💫 People call me MKS.
-- 🌱 Interested in Physics, Mathematics, Coding, Rubik's Cube, Puzzles, etc.
-- 👨‍💻 Currently exploring and analysing the software development field and new technologies.
+- 🌱 Interested in Physics, Mathematics, Astronomy, Coding, Rubik's Cube, Puzzles, etc.
+- 👨‍💻 Currently exploring and analysing the software field and new technologies.
 - 📚 Learning more on languages and development.
 - 📫 Contact me via Gmail: mayankksinha1@gmail.com .
 
@@ -38,9 +38,14 @@
   </div>
   
   <U><h2>🔗Contact Info: </h2></U>
+  <br>
+  Connect with me on different platforms using Linktree.
   <div id="badges">
   <a href="https://linktr.ee/mayank_13">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="LinkTree Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mayank-kumar-sinha-05397b1b4/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
  
 </div>

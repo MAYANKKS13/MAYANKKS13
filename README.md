@@ -28,7 +28,7 @@
 
 <div id="streak" align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=MAYANKKS13&style=flat-square&color=blue" alt=""/><br>
+  <img src="https://komarev.com/ghpvc/?username=MAYANKKS13&style=flat-square&color=blue" alt=""/> <br>
   
   <img align="center" width="25%" src="https://github-contribution-stats.vercel.app/api/?username=MAYANKKS13"> <br>
 

@@ -30,7 +30,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=MAYANKKS13&style=flat-square&color=blue" alt=""/><br>
   
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MAYANKKS13&show_icons=true&theme=dark)](https://github.com/MAYANKKS13/github-readme-stats)
+  <img align="center" width="25%" src="https://github-contribution-stats.vercel.app/api/?username=MAYANKKS13"> <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MAYANKKS13&currStreakNum=white&theme=highcontrast&fire=yellow&sideLabels=white&date_format=j/n/Y)](https://git.io/streak-stats)
   

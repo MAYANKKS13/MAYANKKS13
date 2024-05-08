@@ -19,7 +19,7 @@
 - 🌱 Interested in Physics, Mathematics, Coding, Puzzles & many more.
 - 👨‍💻 Currently exploring and analysing the software field and new technologies.
 - 📚 Learning more on languages and development.
-- 🪙 Solves Rubik's Cube in leisure time and also magician in making.
+- 🪙 Solves Rubik's Cube in leisure time.
 - 📫 Contact me via Gmail: mayankksinha1@gmail.com .
 
 

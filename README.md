@@ -34,7 +34,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MAYANKKS13&currStreakNum=white&theme=highcontrast&fire=yellow&sideLabels=white&date_format=j/n/Y)](https://git.io/streak-stats)
 
-<img src="https://myreadme.vercel.app/api/embed/MAYANKKS13?panels=toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />  
+<img src="https://myreadme.vercel.app/api/embed/MAYANKKS13?panels=commitgraph" alt="reimaginedreadme" />  
  
   
   </div>

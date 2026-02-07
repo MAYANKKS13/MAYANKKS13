@@ -26,18 +26,18 @@
 
  <U><h2>®️ My Github</h2></U>
 
-<div id="streak" align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=MAYANKKS13&style=flat-square&color=blue" alt=""/> <br>
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAYANKKS13&theme=dark)](https://github.com/MAYANKKS13/github-readme-stats)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MAYANKKS13&style=flat-square&color=blue" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MAYANKKS13&currStreakNum=white&theme=highcontrast&fire=yellow&sideLabels=white&date_format=j/n/Y)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MAYANKKS13&theme=highcontrast" />
+</p>
 
-<img src="https://myreadme.vercel.app/api/embed/MAYANKKS13?panels=commitgraph" alt="reimaginedreadme" />  
- 
-  
-  </div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAYANKKS13&theme=high-contrast" />
+</p>
+
 
 
 <U><h2>🔖 Skills: </h2></U>
@@ -55,8 +55,6 @@
 - &nbsp;  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)&nbsp;
   ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)&nbsp;
   ![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=flat&logo=spring&logoColor=white)&nbsp;
-  ![Expo](https://img.shields.io/badge/Expo-1C1E24.svg?style=flat&logo=expo&logoColor=white)&nbsp;
-  ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
   ![NPM](https://img.shields.io/badge/Npm-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
 
 - &nbsp; ![MySQL](https://img.shields.io/badge/MySql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
@@ -74,11 +72,7 @@
 
   
   <U><h2>🔗Contact Info: </h2></U>
-  Connect with me on different platforms using Linktree.
   <div id="badges">
-  <a href="https://linktr.ee/mayank_13">
-    <img src="https://img.shields.io/badge/Linktree-00897B?style=flat&logo=linktree&logoColor=white">
-  </a>&nbsp;
   <a href="https://www.linkedin.com/in/mayank-kumar-sinha-05397b1b4/">
     <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white">
   </a>
